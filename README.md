@@ -46,6 +46,13 @@ A simple, attractive web app that helps users convert their body measurements (c
 
 ---
 ## Demo video
+https://aditibs.github.io/size-converter/
+
+
+
+https://github.com/user-attachments/assets/26c418af-b741-4c0e-a5d6-6bc01c6794df
+
+
 
 
 ## Author
