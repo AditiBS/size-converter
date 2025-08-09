@@ -41,6 +41,7 @@ A simple, attractive web app that helps users convert their body measurements (c
 ---
 
 ## Screenshots
+<img width="1701" height="952" alt="Screenshot 2025-08-09 193948" src="https://github.com/user-attachments/assets/2b64759a-b018-4264-a42b-91f96a552d36" />
 
 
 ---
